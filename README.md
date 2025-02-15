@@ -18,7 +18,6 @@ Here's a little about me... I love learning and I want to spend my life designin
   </a>
 </p>
 
-[![My Skills]()](https://skillicons.dev)
 
 ## Social Medias
 
