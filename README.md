@@ -8,8 +8,6 @@ I love learning and I want to spend my life designing and building awesome apps,
 🎓 Graphic Design<br>
 📚 Computer Science Programming 
 
-⚡ Fun fact: I'm a mom to a toddler!
-
 ##
 
 <p align="center">
