@@ -18,6 +18,8 @@ I love learning and I want to spend my life designing and building awesome apps,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahdadoun01&layout=compact&theme=tokyonight)
 
+![Sarah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarahdadoun01&show_icons=true&theme=tokyonight)
+
 
 
 ## Social Medias
