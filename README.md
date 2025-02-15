@@ -14,7 +14,7 @@ Here's a little about me... I love learning and I want to spend my life designin
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,figma,nodejs,c#,golang,java,javascript,docker,github,php,react" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
 
