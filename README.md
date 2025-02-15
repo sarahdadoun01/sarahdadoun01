@@ -4,10 +4,8 @@ I love learning and I want to spend my life designing and building awesome apps,
 
 👀 I’m interested in arts, software development and web development.
 
-🎓 Interior Design
-
-🎓 Graphic Design 
-
+🎓 Interior Design<br>
+🎓 Graphic Design<br>
 📚 Computer Science Programming 
 
 ⚡ Fun fact: I'm a mom to a toddler!
