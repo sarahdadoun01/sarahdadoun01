@@ -10,7 +10,7 @@ Here's a little about me... I love learning and I want to spend my life designin
 
 ⚡ Fun fact: I'm a mom to a toddler!
 
-## Skills
+##
 
 <p align="center">
   <a href="https://skillicons.dev">
