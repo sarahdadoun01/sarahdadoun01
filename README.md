@@ -14,7 +14,7 @@ Here's a little about me... I love learning and I want to spend my life designin
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,maven,gradle,python,php,laravel,go,nodejs,nuxt,express,prisma,vite,pug,html,css,sass,js,ts,vue,pinia,svelte,vscode,cs,nginx,unity,electron&perline=9" />
+    <img src="https://skillicons.dev/icons?i=java,python,php,go,nodejs,html,css,sass,js,react,c,cs,django,swift,php,nodejs,npm,webpack,mysql,sqlite,linux,eclipse,dotnet,git,github,docker,firebase,aws,ubuntu,wordpress,ai,ps,sketchup,autocad,figma,bash,babel,vscode,nginx&perline=9" />
   </a>
 </p>
 
