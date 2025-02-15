@@ -12,7 +12,13 @@ Here's a little about me... I love learning and I want to spend my life designin
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=aws,figma,nodejs,c#,c,html,css,golang,java,javascript,docker,github,git,php,react,vue,flutter&perline=8)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,figma,nodejs,c#,c,html,css,golang,java,javascript,docker,github,git,php,react,vue,flutter&perline=8" />
+  </a>
+</p>
+
+[![My Skills]()](https://skillicons.dev)
 
 ## Social Medias
 
