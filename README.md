@@ -4,9 +4,9 @@ I love learning and I want to spend my life designing and building awesome apps,
 
 👀 I’m interested in arts, software development and web development.
 
-📚 I’m currently in my last College Semester in computer science programming, which is one of my favorite parts of my day.
-
-🤓 Some college in Interior Design, graduated in Graphic Design, finishing up Computer Science, and an experienced Eyelash Technician.
+🎓 Interior Design
+🎓 Graphic Design
+📚 Computer Science Programming 
 
 ⚡ Fun fact: I'm a mom to a toddler!
 
