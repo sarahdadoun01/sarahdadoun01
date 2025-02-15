@@ -1,4 +1,4 @@
-# 👋 Hi! I’m @sarahdadoun01, real name — Sarah Dadoun
+# Sarah Dadoun
 
 I love learning and I want to spend my life designing and building awesome apps, websites and softwares. I'm not afraid of challenging myself. I spent most of my 20's in college, discovering what I ultimately wanted to do in life. Through countless courses and experiences, I realized my true passion lies in programming, and I've been pursuing it ever since.
 
