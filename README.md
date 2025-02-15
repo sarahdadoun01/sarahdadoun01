@@ -16,7 +16,8 @@ I love learning and I want to spend my life designing and building awesome apps,
 
 ##
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarahdadoun01E&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahdadoun01&layout=compact&theme=tokyonight)
+
 
 
 ## Social Medias
